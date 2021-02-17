@@ -15,4 +15,4 @@ La fonction finCatSpecial permet de retourner les catégories spéciales d’une
 
 
 ## Schéma UML
-![Schéma](https://ibb.co/7pLGk6x)
+![Schema](https://github.com/leadmrn/tp_symfony/blob/master/assets/schema.png)
