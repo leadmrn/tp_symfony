@@ -1,0 +1,27 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}{{ title }}{% endblock %}
+
+{% block sidebar %}
+    <p>Nombre de clients : {{ clients|length }}</p>
+    <p>Moyenne de bières achetés par client : {{ moyenne }}</p>
+    <p>Écart type : {{ ecartType }}</p>
+{% endblock %}
+
+{% block body %}
+    <style>
+        .example-wrapper { margin: 1em auto; max-width: 800px; width: 95%; font: 18px/1.5 sans-serif; }
+        .example-wrapper code { background: #F5F5F5; padding: 2px 6px; }
+    </style>
+
+    <div class="example-wrapper">
+        <p>Affichage par ordre décroissant</p>
+        {% for client in clients %}
+            <div class="card">
+                <div class="card-body">
+                    <p class="card-title">{{ client.name }} , âge {{ client.age }} ans, nombre de bière bu : {{ client.numberBeer }}</p>
+                </div>
+            </div>
+        {% endfor %}
+    </div>
+{% endblock %}

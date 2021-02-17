@@ -1,0 +1,21 @@
+{% extends 'base.html.twig' %}
+
+{% block title %} {{ title }}{% endblock %}
+
+{% block sidebar %}{% endblock %}
+
+{% block body %}
+
+    <div>
+        {% for beer in beers %}
+            <div class="card">
+                <div class="card-body">
+                    <h4 class="card-title">
+                        <a href="{{ path('beer', { 'id' : beer.id }) }}">{{ beer.name }}</a>
+                    </h4>
+                    <p>{{ beer.description }}</p>
+                </div>
+            </div>
+        {% endfor %}
+    </div>
+{% endblock %}
