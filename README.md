@@ -9,10 +9,10 @@
 * Carlo BERNI
 * Jeremy SCHIAPPAPIETRE
 
-## Setup
+## Config
 * Installer les dépendances
 ```bash
-`composer i && npm i`
+composer i && npm i
 ```
 * Configurer votre .env
 * Configurer votre base de données   
