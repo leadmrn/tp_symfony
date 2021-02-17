@@ -1,25 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ee6d556e-cea9-4353-b042-a793ebcf379e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/styles/app.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/beer/index.html.twig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/beers/index.html.twig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/category/index.html.twig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/home/index.html.twig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/mentions/index.html.twig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/partials/menu.html.twig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/statistic/index.html.twig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/bundles.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/bundles.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/symfony.lock" beforeDir="false" afterPath="$PROJECT_DIR$/symfony.lock" afterDir="false" />
-    </list>
+    <list default="true" id="ee6d556e-cea9-4353-b042-a793ebcf379e" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -487,12 +469,12 @@
       <workItem from="1613133590110" duration="6740000" />
       <workItem from="1613376744837" duration="19236000" />
       <workItem from="1613505860483" duration="1435000" />
-      <workItem from="1613550661156" duration="3061000" />
+      <workItem from="1613550661156" duration="3317000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44572000" />
+    <option name="totallyTimeSpent" value="44828000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1200" extended-state="0" />
